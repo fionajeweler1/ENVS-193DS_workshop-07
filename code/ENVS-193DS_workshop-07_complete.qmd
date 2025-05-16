@@ -3,7 +3,7 @@ title: "Linear regression"
 author: "Fiona Jeweler"
 date: "05/16/2025"
 format:
-  html:
+  html: 
     toc: true # use this to display a table of contents
 execute:
   message: false # use this to make sure messages don't show up
@@ -11,6 +11,8 @@ execute:
 ---
 
 # 1. Set up
+
+***Render every time to save***
 
 ```{r libraries-and-data}
 library(tidyverse) # general use
